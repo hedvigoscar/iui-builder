@@ -5,4 +5,4 @@ authors = ["Tobia Conforto <tobia.conforto@gmail.com>"]
 edition = "2018"
 
 [dependencies]
-iui = "0.3.0"
+iui = { git = "https://github.com/rust-native-ui/libui-rs.git" }
